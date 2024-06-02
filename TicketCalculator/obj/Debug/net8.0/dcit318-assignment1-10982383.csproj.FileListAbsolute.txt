@@ -1,0 +1,29 @@
+D:\Coding_lessons\C#\dcit318-assignment1-10982383\dcit318-assignment1-10982383\bin\Debug\net8.0\dcit318-assignment1-10982383.exe
+D:\Coding_lessons\C#\dcit318-assignment1-10982383\dcit318-assignment1-10982383\bin\Debug\net8.0\dcit318-assignment1-10982383.deps.json
+D:\Coding_lessons\C#\dcit318-assignment1-10982383\dcit318-assignment1-10982383\bin\Debug\net8.0\dcit318-assignment1-10982383.runtimeconfig.json
+D:\Coding_lessons\C#\dcit318-assignment1-10982383\dcit318-assignment1-10982383\bin\Debug\net8.0\dcit318-assignment1-10982383.dll
+D:\Coding_lessons\C#\dcit318-assignment1-10982383\dcit318-assignment1-10982383\bin\Debug\net8.0\dcit318-assignment1-10982383.pdb
+D:\Coding_lessons\C#\dcit318-assignment1-10982383\dcit318-assignment1-10982383\obj\Debug\net8.0\dcit318-assignment1-10982383.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding_lessons\C#\dcit318-assignment1-10982383\dcit318-assignment1-10982383\obj\Debug\net8.0\dcit318-assignment1-10982383.AssemblyInfoInputs.cache
+D:\Coding_lessons\C#\dcit318-assignment1-10982383\dcit318-assignment1-10982383\obj\Debug\net8.0\dcit318-assignment1-10982383.AssemblyInfo.cs
+D:\Coding_lessons\C#\dcit318-assignment1-10982383\dcit318-assignment1-10982383\obj\Debug\net8.0\dcit318-assignment1-10982383.csproj.CoreCompileInputs.cache
+D:\Coding_lessons\C#\dcit318-assignment1-10982383\dcit318-assignment1-10982383\obj\Debug\net8.0\dcit318-assignment1-10982383.dll
+D:\Coding_lessons\C#\dcit318-assignment1-10982383\dcit318-assignment1-10982383\obj\Debug\net8.0\refint\dcit318-assignment1-10982383.dll
+D:\Coding_lessons\C#\dcit318-assignment1-10982383\dcit318-assignment1-10982383\obj\Debug\net8.0\dcit318-assignment1-10982383.pdb
+D:\Coding_lessons\C#\dcit318-assignment1-10982383\dcit318-assignment1-10982383\obj\Debug\net8.0\dcit318-assignment1-10982383.genruntimeconfig.cache
+D:\Coding_lessons\C#\dcit318-assignment1-10982383\dcit318-assignment1-10982383\obj\Debug\net8.0\ref\dcit318-assignment1-10982383.dll
+D:\lessons\DCIT 318\Assignment\dcit318-assignment1-10982383\TicketCalculator\bin\Debug\net8.0\dcit318-assignment1-10982383.exe
+D:\lessons\DCIT 318\Assignment\dcit318-assignment1-10982383\TicketCalculator\bin\Debug\net8.0\dcit318-assignment1-10982383.deps.json
+D:\lessons\DCIT 318\Assignment\dcit318-assignment1-10982383\TicketCalculator\bin\Debug\net8.0\dcit318-assignment1-10982383.runtimeconfig.json
+D:\lessons\DCIT 318\Assignment\dcit318-assignment1-10982383\TicketCalculator\bin\Debug\net8.0\dcit318-assignment1-10982383.dll
+D:\lessons\DCIT 318\Assignment\dcit318-assignment1-10982383\TicketCalculator\bin\Debug\net8.0\dcit318-assignment1-10982383.pdb
+D:\lessons\DCIT 318\Assignment\dcit318-assignment1-10982383\TicketCalculator\obj\Debug\net8.0\dcit318-assignment1-10982383.GeneratedMSBuildEditorConfig.editorconfig
+D:\lessons\DCIT 318\Assignment\dcit318-assignment1-10982383\TicketCalculator\obj\Debug\net8.0\dcit318-assignment1-10982383.AssemblyInfoInputs.cache
+D:\lessons\DCIT 318\Assignment\dcit318-assignment1-10982383\TicketCalculator\obj\Debug\net8.0\dcit318-assignment1-10982383.AssemblyInfo.cs
+D:\lessons\DCIT 318\Assignment\dcit318-assignment1-10982383\TicketCalculator\obj\Debug\net8.0\dcit318-assignment1-10982383.csproj.CoreCompileInputs.cache
+D:\lessons\DCIT 318\Assignment\dcit318-assignment1-10982383\TicketCalculator\obj\Debug\net8.0\dcit318-assignment1-10982383.sourcelink.json
+D:\lessons\DCIT 318\Assignment\dcit318-assignment1-10982383\TicketCalculator\obj\Debug\net8.0\dcit318-assignment1-10982383.dll
+D:\lessons\DCIT 318\Assignment\dcit318-assignment1-10982383\TicketCalculator\obj\Debug\net8.0\refint\dcit318-assignment1-10982383.dll
+D:\lessons\DCIT 318\Assignment\dcit318-assignment1-10982383\TicketCalculator\obj\Debug\net8.0\dcit318-assignment1-10982383.pdb
+D:\lessons\DCIT 318\Assignment\dcit318-assignment1-10982383\TicketCalculator\obj\Debug\net8.0\dcit318-assignment1-10982383.genruntimeconfig.cache
+D:\lessons\DCIT 318\Assignment\dcit318-assignment1-10982383\TicketCalculator\obj\Debug\net8.0\ref\dcit318-assignment1-10982383.dll
