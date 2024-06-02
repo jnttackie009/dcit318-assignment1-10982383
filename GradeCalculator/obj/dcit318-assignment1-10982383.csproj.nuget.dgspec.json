@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\lessons\\DCIT 318\\Assignment\\dcit318-assignment1-10982383\\GradeCalculator\\dcit318-assignment1-10982383.csproj": {}
+    "D:\\Lessons\\DCIT 318\\Assignment\\dcit318-assignment1-10982383\\GradeCalculator\\dcit318-assignment1-10982383.csproj": {}
   },
   "projects": {
-    "D:\\lessons\\DCIT 318\\Assignment\\dcit318-assignment1-10982383\\GradeCalculator\\dcit318-assignment1-10982383.csproj": {
+    "D:\\Lessons\\DCIT 318\\Assignment\\dcit318-assignment1-10982383\\GradeCalculator\\dcit318-assignment1-10982383.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\lessons\\DCIT 318\\Assignment\\dcit318-assignment1-10982383\\GradeCalculator\\dcit318-assignment1-10982383.csproj",
+        "projectUniqueName": "D:\\Lessons\\DCIT 318\\Assignment\\dcit318-assignment1-10982383\\GradeCalculator\\dcit318-assignment1-10982383.csproj",
         "projectName": "dcit318-assignment1-10982383",
-        "projectPath": "D:\\lessons\\DCIT 318\\Assignment\\dcit318-assignment1-10982383\\GradeCalculator\\dcit318-assignment1-10982383.csproj",
+        "projectPath": "D:\\Lessons\\DCIT 318\\Assignment\\dcit318-assignment1-10982383\\GradeCalculator\\dcit318-assignment1-10982383.csproj",
         "packagesPath": "C:\\Users\\Joseph Tackie\\.nuget\\packages\\",
-        "outputPath": "D:\\lessons\\DCIT 318\\Assignment\\dcit318-assignment1-10982383\\GradeCalculator\\obj\\",
+        "outputPath": "D:\\Lessons\\DCIT 318\\Assignment\\dcit318-assignment1-10982383\\GradeCalculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Joseph Tackie\\AppData\\Roaming\\NuGet\\NuGet.Config",
